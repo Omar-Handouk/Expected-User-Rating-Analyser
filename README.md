@@ -1,5 +1,4 @@
 # Recommendation System and Expected Rating Analyser
-> A Practical Application of Java Networking Capabilities
 
 ## Aims
 * Implementing the aqcuired knowledge of Haskell Programming Language.
