@@ -1,4 +1,4 @@
-# Network and Socket Programming using Java
+# Recommendation System and Expected Rating Analyser
 > A Practical Application of Java Networking Capabilities
 
 ## Aims
